@@ -1,3 +1,11 @@
 .FooterComponent{
 	margin-left: 45%;
 }
+
+.FooterText{
+	text-align: center;
+}
+
+.FooterContainer{
+	background-color: #F5EAE8;
+}
