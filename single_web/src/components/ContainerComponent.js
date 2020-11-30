@@ -25,7 +25,6 @@ class ContainerComponent extends Component{
 				<div>
 					<FooterComponent/>
 				</div>
-				
 			</div>
 		);
 	}

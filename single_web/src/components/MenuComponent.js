@@ -26,7 +26,7 @@ const MenuComponent = () => {
 
   return (
     <>
-    <div className="MenuContainer">
+    <div style={{'margin-top':'15px'}} className="MenuContainer">
       <Switch onChange={changeMode} /> Cambiar Estilo
       <Divider type="vertical" />
       <Switch onChange={changeTheme} /> Cambiar Tema
