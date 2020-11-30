@@ -7,5 +7,10 @@
 }
 
 .FooterContainer{
-	background-color: #F5EAE8;
+	margin-top: 600px;
+	position:relative;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
 }

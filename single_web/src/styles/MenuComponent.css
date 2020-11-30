@@ -1,7 +1,11 @@
 .MenuContainer{
-	width: 300px;
+	width: 310px;
 	float:left;
-	background-color: #E8F9DF;
+	margin-top: 55px;
 	padding: 0;
 	margin: 0;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
 }
