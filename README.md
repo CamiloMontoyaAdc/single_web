@@ -79,3 +79,5 @@ Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICE
 
 ---
 ⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
+
+"Las obras de conocimiento deben ser libres, no hay excusas para que no sea así." - Richard Stallman.
