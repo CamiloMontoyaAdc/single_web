@@ -1,7 +1,8 @@
 # single_web (página web simple).
 
 _Template/maqueta de página web de una sola pestaña (single web) elaborada en JavaScript con implementación de ReactJS.
-Página web que sirve como base para la maquetación principal de una página web sencilla distribuida en componentes gracias a los beneficios ofrecidos por la librería de javascript reactJS._
+Página web que sirve como base para la maquetación principal de una página web sencilla distribuida en componentes gracias a los beneficios ofrecidos por la librería de javascript reactJS.
+Puedes usar este repositorio en tus proyectos para tener una estructura básica de una aplicación ya organizada por componentes (sencillos) y distribuida en diferentes elementos, asímismo contando con una hoja de estilos (css) para cada componente aquí vinculado facilitando el manejo y modificación de estos._
 
 ## Comenzando 🚀
 
@@ -75,9 +76,11 @@ Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICE
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo: [paypal.me/CamiloMontoyaAdc](paypal.me/CamiloMontoyaAdc).
+* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, copia el enlace y pegalo en una nueva pestaña de tu navegador para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](paypal.me/CamiloMontoyaAdc).
 
 ---
 ⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
+
+Linked in (copia y pega el enlace en tu navegador): [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
 
 "Las obras de conocimiento deben ser libres, no hay excusas para que no sea así." - Richard Stallman.

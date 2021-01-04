@@ -21,6 +21,7 @@ class FooterComponent extends Component{
 			      </Link>
 			    </Breadcrumbs>
 		    </div>
+		    <br></br>
 		    <div className="FooterText">
 		    	<footer>
 			    	<p>&copy; - Elaborado por Camilo Montoya Adc- Todos los derechos reservados - Bogotá, Colombia - 2020</p>

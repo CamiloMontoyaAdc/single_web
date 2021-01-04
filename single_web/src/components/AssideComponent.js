@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import { Button, Toast } from 'react-bootstrap';
+import { Toast } from 'react-bootstrap';
+import '../styles/AssideComponent.css';
 
 class AssideComponent extends Component{
 
 	render(){
 		return(
-			<div style={{'float':'right','margin-top':'15px'}}>
+			<div className = "AssideComponent" style={{'float':'right','margin-top':'15px'}}>
 				  <Toast>
 				    <Toast.Header>
 				      <img src="holder.js/20x20?text=%20" className="rounded mr-2" alt="" />

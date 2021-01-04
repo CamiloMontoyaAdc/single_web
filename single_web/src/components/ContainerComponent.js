@@ -4,12 +4,13 @@ import MenuComponent from './MenuComponent';
 import NavComponent from './NavComponent';
 import AssideComponent from './AssideComponent';
 import FooterComponent from './FooterComponent';
+import '../styles/ContainerComponent.css';
 
 class ContainerComponent extends Component{
 
 	render(){
 		return(
-			<div>
+			<div className = "ContainerComponent">
 				<div>
 					<HeaderComponent/>
 				</div>

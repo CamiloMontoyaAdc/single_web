@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Input, Menu, Segment } from 'semantic-ui-react'
+import '../styles/NavComponent.css';
 
 const styleLink = document.createElement("link");
 styleLink.rel = "stylesheet";
@@ -15,7 +16,7 @@ export default class MenuExamplePointing extends Component {
     const { activeItem } = this.state
 
     return (
-      <div style={{'float':'left', 'margin-top':'15px', 'margin-left':'90px'}}>
+      <div className = "NavComponent" style={{'float':'left', 'margin-top':'15px', 'margin-left':'90px'}}>
         <Menu pointing>
           <Menu.Item
             name='home'
