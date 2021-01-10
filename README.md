@@ -1,4 +1,4 @@
-# single_web (página web simple).
+# single web (página web simple).
 
 _Template/maqueta de página web de una sola pestaña (single web) elaborada en JavaScript con implementación de ReactJS.
 Página web que sirve como base para la maquetación principal de una página web sencilla distribuida en componentes gracias a los beneficios ofrecidos por la librería de javascript reactJS.
@@ -63,24 +63,24 @@ single_web
 
 _Personas que colaboraron con el proyecto desde sus inicios_
 
-* **Camilo Montoya** - *Trabajo Inicial* - [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc)
+* **Camilo Montoya** - *Trabajo Inicial* - [Camilo Montoya](https://github.com/CamiloMontoyaAdc)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](hhttps://github.com/CamiloMontoyaAdc/single_web/graphs/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](https://github.com/CamiloMontoyaAdc/single_web/blob/main/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, copia el enlace y pegalo en una nueva pestaña de tu navegador para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](paypal.me/CamiloMontoyaAdc).
+* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, el enlace para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](https://paypal.me/CamiloMontoyaAdc).
 
 ---
-⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
+⌨️ con ❤️ por [Camilo Montoya](https://github.com/CamiloMontoyaAdc) 😊
 
-Linked in (copia y pega el enlace en tu navegador): [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
+Linked in: [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
 
 "Las obras de conocimiento deben ser libres, no hay excusas para que no sea así." - Richard Stallman.
